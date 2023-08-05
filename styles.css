@@ -1,0 +1,213 @@
+/* 1st_row */
+body{
+   
+    
+}
+.background{
+    background-color: rgb(159, 46, 46);
+    padding: 5px; 
+    color: white;
+    height: 50px;
+}
+
+/* 2nd_row_1st_1st_column */
+.col-5{
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: -120px;
+}
+
+/* 2nd_row_2nd_colum */
+.img_logo{
+    margin-top: 30px;
+    padding-left: 0px;
+    
+    
+}
+
+/* 2nd_row_3rd_column */
+.form-control  {
+    padding-left: 50px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(185, 185, 189)
+}
+.form {
+    margin-top:30px;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+/* 3rd_row */
+.z-n1{
+    background-color: rgb(159, 46, 46);
+    margin-top: 20px;
+    padding: 12px; 
+    color: white;
+    height: 50px;
+}
+.form-select{
+    background-color: rgb(159, 46, 46);
+    padding-top: 0px;
+    border: none;
+    color: black;
+    border: 0;
+    border-radius: 20px;
+    
+}
+
+/* 4th row */
+.bgimage{
+    background-image: url("img/iim_campus_area.jpg");
+    background-size: 1520px;
+    height: 600px;
+}
+.bgimage  >div  {
+    color: white;
+    padding-left:165px ;
+    padding-top: 300px;
+
+}
+
+/* 5th row */
+.flex-container {
+    display: flex;
+    height: 700px;
+    background-color: #e2e1e1;
+    align-items: ;
+    
+  }
+.flex-container > div{
+    margin-left: 165px;
+    padding-top: 100px;
+  }
+.one{
+    padding-top: 40px;
+    height: 40%;
+    width: 40%;
+  }
+.two{
+    padding-top: 20px;
+    width: 92%;
+    height: 36%;
+  }
+img.onee {
+    padding-top: 50px;
+    height: 467px;
+    width: 500px;
+  }
+
+/* 6th row */
+.col-6{
+  padding-top: 60px;
+  height: 600px;
+  
+}
+col-6.h2{
+  padding-top: -1000px;
+}
+img.ones{
+    height: 250px;
+    padding-top: 10px;
+    margin-left: 10px;
+    opacity: 0.3;
+}
+img.threes{
+    height:390px ;
+    width: 600px;
+    padding-top: 20px;
+    
+    
+    
+}
+  
+/* 7th row */
+.back{
+  background-color: #ffffff;
+  height: 300px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+/* 8th row */
+
+
+/* 9th row */
+.embed-responsive ratio ratio-21x9{
+  height: 200px;
+}
+.embed-responsive-item{
+  padding-top: 100px
+}
+
+/* 10the row */
+
+
+/* 11th row */
+
+.image-container{
+  height: 300px;
+  padding-top: 100px;
+  align-items: center;
+  background-size: cover;
+
+}
+.image-container img{
+  width: 100px;
+  height: 100px;
+  margin-left: 100px;
+}
+
+/* 12th row */
+/* .footer{
+    background-color: rgba(130, 129, 129, 0.856);
+    background-image: url('./img/Indian_Institute_of_Management_Raipur_IIM_Raipur_footer.jpg');
+    background-size: 1520px;
+    height: 600px;
+    overflow: hidden;
+    opacity: 0.6;
+    text-align: start;
+}
+footer.h5{
+    color: white;
+}
+hr {
+    
+    height: 2px;
+    background-color: #2108de;
+    
+  } */
+
+/* Custom styles for the footer */
+.footer-dark {
+    padding: 40px 0;
+    background-color: #333;
+    color: #ffffff;
+  }
+  
+.footer-dark h5 {
+    color: #848282;
+    margin-left: 150px
+  }
+.footer-dark p {
+    color: #ffffff;
+  }
+  
+/* Background photo */
+.footer-dark {
+    background-image: url('./img/IIM.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: ;
+    background-image: -o-linear-gradient(15PX);
+  }
+.footer-dark form{
+    text-align: center;
+  }
+.footer-dark img{
+    width: 500px;
+  }
+.footer-dark ul{
+    margin-left: 150px;
+    color: #ffffff;
+  }
